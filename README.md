@@ -1,5 +1,3 @@
-# Aurora-AI-Agent
-
 # Aurora: AI Therapy Agent
 
 _A gentle, empathetic friend you can always talk to._
