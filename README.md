@@ -6,7 +6,7 @@ _A gentle, empathetic friend you can always talk to._
 
 Aurora is a desktop AI companion designed to provide emotional support, calm anxious moments, and assist with web searches — all within one interface.
 
-> “Aurora doesn’t replace therapy — she’s just a friend who listens when you need someone most.”
+
 
 ---
 
